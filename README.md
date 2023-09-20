@@ -14,4 +14,4 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+O projeto Fokus foi concluído com sucesso, utilizando JavaScript e manipulação do DOM, com algumas modificações no HTML e CSS para torná-lo mais dinâmico, moderno e com um toque geek.
